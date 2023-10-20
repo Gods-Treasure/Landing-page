@@ -1,0 +1,72 @@
+body {
+    background-color: rgb(214, 217, 217);
+    display: flex;
+    padding: 10%;
+    gap: 40px;
+}
+form {
+    background-color: white;
+    padding: 15px;
+    border-radius: 6px;
+    max-width: 300px;
+    max-height: 300px;
+    margin: auto;
+    text-align: center;
+}
+input{
+    margin: 5px;
+    padding: 5px;
+    width: 90%;
+    border-radius: 3px;
+    border-color: lightgray;
+}
+.login {
+    background-color: blue;
+    padding: 10px;
+    width: 90%;
+    border-radius: 7px;
+    border: none;
+
+}
+.new {
+    background-color: rgb(32, 208, 29);
+    padding: 10px;
+    border-radius: 7px;
+    border: none;
+    
+}
+a:link:visited {
+   text-decoration-line: none;
+    
+}
+h1{
+    color: blue;
+    font-size:50px ;
+}
+.New {
+    color: white;
+    text-decoration-line: none;
+}
+.Login {
+    color: white;
+    text-decoration-line: none;
+}
+
+.meme {
+    color: blue;
+    text-decoration-line: none;
+    margin: 10px;
+}
+.Meme {
+    margin: 10px;
+}
+.Make {
+    color: black;
+    text-decoration-line: none;
+}
+.Make:hover {
+ font-weight: bolder;
+}
+.fb{
+    
+}
